@@ -5,8 +5,8 @@ synopsis:           A library to help write and run aoc solutions in Haskell
 description:        A library that exposes utilities to run aoc solutions for any year.
                     There's also a command line tool to auto generate directories for any year
                     and automatically add the corresponding executable stanza to the aoc.cabal file.
--- bug-reports: 
--- license:
+bug-reports:        https://github.com/giacomocavalieri/aoc/issues
+license:            MIT
 author:             Giacomo Cavalieri
 maintainer:         giacomo.cavalieri@icloud.com
 
